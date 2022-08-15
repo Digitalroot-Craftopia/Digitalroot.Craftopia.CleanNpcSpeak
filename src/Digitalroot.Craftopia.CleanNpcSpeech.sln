@@ -36,7 +36,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ico", "ico", "{C66A8E3B-31D
 		ico\ValheimRcon_color.png = ico\ValheimRcon_color.png
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digitalroot.Craftopia.CleanNpcSpeech", "Digitalroot.Craftopia.CleanNpcSpeech\Digitalroot.Craftopia.CleanNpcSpeech.csproj", "{64968DDA-876F-4BA2-B799-40B0D4C4D512}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64968DDA-876F-4BA2-B799-40B0D4C4D512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64968DDA-876F-4BA2-B799-40B0D4C4D512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64968DDA-876F-4BA2-B799-40B0D4C4D512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64968DDA-876F-4BA2-B799-40B0D4C4D512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
@@ -45,6 +57,7 @@ Global
 		{1960DCD1-3C51-48FF-BFF8-5FE4C3CBABB2} = {E64D67E6-C2B6-471C-990D-2E9A91427B64}
 		{28344659-BF34-4411-9C48-A3D5C9AFA98E} = {E5C5D2B9-639B-48CF-B5B0-E44FD7F24B1E}
 		{C66A8E3B-31DB-4296-9DF3-78F55E2580E5} = {E5C5D2B9-639B-48CF-B5B0-E44FD7F24B1E}
+		{64968DDA-876F-4BA2-B799-40B0D4C4D512} = {E5C5D2B9-639B-48CF-B5B0-E44FD7F24B1E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {46DD4389-95C4-4F57-BB16-2A9A816F46B9}

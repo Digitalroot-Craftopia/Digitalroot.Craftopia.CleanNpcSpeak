@@ -1,0 +1,29 @@
+﻿[size=3][b][size=4]Summary[/size][/b]
+Replaces swear words NPCs say with ******* 
+
+[b][size=4]License[/size][/b]
+[url=https://github.com/Digitalroot-Craftopia/Digitalroot.Craftopia.CleanNpcSpeech/blob/main/LICENSE]GNU Affero General Public License v3.0[/url]
+
+[b][size=4]Digitalroot.Craftopia.CleanNpcSpeech[/size][/b]
+Replaces swear words NPCs say with ******* 
+[/size][size=3]
+[b]Dependencies[/b]
+[/size][list]
+[*][size=3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2830278057]BepInEx[/url]﻿﻿[/size]
+[/list][size=3]
+[b][size=4]Installation (manual)[/size][/b]
+[/size][list=1]
+[*][size=3]Download the latest release archive (zip) file.[/size]
+[*][size=3]Extract the archive into <Steam Location>\steamapps\common\Valheim\BepInEx\plugins\[/size]
+[/list][size=3]
+[b]Configuration [/b][/size]
+
+[list]
+[*][size=3]No need to configure.[/size]
+[/list]
+
+[b][size=4]Support Me[/size][/b] @ [url=https://www.buymeacoffee.com/digitalroot]https://www.buymeacoffee.com/digitalroot[/url]
+
+
+[center][size=3][b][color=#00ffff]Digitalroot can be found in the Odin Plus Team Discord[/color][/b][/size]
+[url=https://discord.gg/mbkPcvu9ax][img]https://digitalroot.net/img/odinplusdisc.png[/img][/url]﻿[/center]
